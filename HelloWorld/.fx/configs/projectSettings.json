@@ -1,0 +1,22 @@
+{
+    "appName": "HelloWorld",
+    "projectId": "7ef095fb-c29e-47e2-96da-2b78c9493f1d",
+    "version": "2.1.0",
+    "isFromSample": false,
+    "solutionSettings": {
+        "name": "fx-solution-azure",
+        "version": "1.0.0",
+        "hostType": "SPFx",
+        "azureResources": [],
+        "capabilities": [
+            "Tab"
+        ],
+        "activeResourcePlugins": [
+            "fx-resource-spfx",
+            "fx-resource-local-debug",
+            "fx-resource-appstudio",
+            "fx-resource-cicd"
+        ]
+    },
+    "programmingLanguage": "typescript"
+}
